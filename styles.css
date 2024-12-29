@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+
+.book {
+    border: 3px solid black;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding-left: 10px;
+    
+}
+
+.cover {
+    width: 350px;
+    height: 506px;
+    margin-left: 10px;
+    box-shadow: 0px 2px 5px lightgray;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+.rating {
+    width: 100px;
+
+}
+
+.mini-border {
+
+    padding: 15px;
+    width: 540px;
+    margin-left: 15px;
+    font-size: thicker;
+    
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.anchor {
+    color: #007185;
+}
+
+.breadcrumb {
+    margin-left: 15px;
+    color: #565959;
+    font-weight: lighter;
+    height: 4px;
+    
+    
+}
